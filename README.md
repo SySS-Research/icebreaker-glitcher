@@ -32,7 +32,7 @@ The following two images show a working test setup for the iCEBreaker Glitcher.
 
 ![iCEBreaker Glitcher test setup](/images/icebreaker_glitcher_test_setup.jpg)
 
-![MAX4619 wiring using iCEBreaker Glitcher](/image/glitcher_max4619_wiring.jpg)
+![MAX4619 wiring using iCEBreaker Glitcher](/images/glitcher_max4619_wiring.jpg)
 
 ## Demo
 
