@@ -1,0 +1,9 @@
+*.asc
+*.bin
+*.json
+*.log
+*.rpt
+*.vcd
+obj_dir/
+*_tb*
+*.pyc
