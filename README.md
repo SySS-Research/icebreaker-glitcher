@@ -40,7 +40,7 @@ This demo video exemplarily shows how the code read protection (CRP) of an [NXP 
 
 In this proof-of-concept video, the [iCEstick Glitcher](https://github.com/SySS-Research/icestick-glitcher) was used, which works in the same way as the iCEBreaker glitcher.
 
-[![SySS PoC Video: Voltage Glitching Attack using SySS iCEstick Glitcher](/images/icestick_glitcher_poc_video.jpg)](http://https://www.youtube.com/watch?v=FVUhVewFmxw "Voltage Glitching Attack using SySS iCEstick Glitcher")
+[![SySS PoC Video: Voltage Glitching Attack using SySS iCEstick Glitcher](/images/icestick_glitcher_poc_video.jpg)](https://www.youtube.com/watch?v=FVUhVewFmxw "Voltage Glitching Attack using SySS iCEstick Glitcher")
 
 ## References
 
