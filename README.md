@@ -31,7 +31,7 @@ at REcon Brussles 2017.
 The iCEBreaker Glitcher can be downloaded and built using the SymbiFlow toolchain in the following way:
 ```
 git clone https://github.com/SySS-Research/icebreaker-glitcher.git
-cd icestick-glitcher
+cd icebreaker-glitcher
 make
 make prog
  
